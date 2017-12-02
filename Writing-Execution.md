@@ -19,9 +19,9 @@ Programmers use comments to annotate a program and help the reader (or grader) u
 - The Java compiler ignores comments. Line comments. An end-of-line comment begins with // (two forward slashes) and ends at the end of the line on which the forward slashes appear. Any text from the // to the end of the line is ignored.
 - Block comments. A block comment begins with /* (a forward slash and asterisk) and ends with */ (asterisk and a forward slash). Any text between these delimiters (even if it spans multiple lines) is ignored.
 - Bold comments. A bold comment is a special case of a block comment designed to draw attention.
+
 /*---------------------------------------------------------
- *  Here is a block comment that draws attention
- *  to itself.
+ *  Hello is it me your looking for
  *---------------------------------------------------------*/
  
  
