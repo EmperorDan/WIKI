@@ -14,17 +14,16 @@
 - Name a constant by its meaning, not its value, e.g., name your variable DAYS_PER_WEEK instead of SEVEN.
 
 ## Commenting 
-Programmers use comments to annotate a program and help the reader (or grader) understand how and why your program works. As a general rule, the code explains to the computer and programmer what is being done; the comments explain to the programmer why it is being done. Comments can appear anywhere within a program where whitespace is allowed. 
+Programmers use comments to annotate a program and help the reader understand how, and why your program works. As a general rule, the code explains to the computer, and programmer, what is being done; the comments explain to the programmer why it is being done. Comments can appear anywhere within a program where whitespace is allowed. 
 
-- The Java compiler ignores comments. Line comments. An end-of-line comment begins with // (two forward slashes) and ends at the end of the line on which the forward slashes appear. Any text from the // to the end of the line is ignored.
+- An end-of-line comment begins with // (two forward slashes) and ends at the end of the line on which the forward slashes appear. Any text from the // to the end of the line is ignored.
 - Block comments. A block comment begins with /* (a forward slash and asterisk) and ends with */ (asterisk and a forward slash). Any text between these delimiters (even if it spans multiple lines) is ignored.
-- Bold comments. A bold comment is a special case of a block comment designed to draw attention.
-
-/*---------------------------------------------------------
-   Hello is it me your looking for
- *---------------------------------------------------------*/
- 
  
 There is no widely agreed upon set of rules. Good programmers write code that documents itself.
 Make sure that comments agree with the code. Be careful to update the comments when you update the code.
 Do not write comments that merely restate the code. Generally, comments should describe what or why you are doing something, rather than how.
+
+## Execution
+Execution in computer and software engineering is the process by which a computer or a virtual machine performs the instructions of a computer program. The instructions in the program trigger sequences of simple actions on the executing machine. Those actions produce effects according to the semantics of the instructions in the program.
+
+
