@@ -21,7 +21,7 @@ Programmers use comments to annotate a program and help the reader (or grader) u
 - Bold comments. A bold comment is a special case of a block comment designed to draw attention.
 
 /*---------------------------------------------------------
- *  Hello is it me your looking for
+   Hello is it me your looking for
  *---------------------------------------------------------*/
  
  
