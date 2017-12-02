@@ -1,4 +1,13 @@
 # Repl.it
+## Introduction
+Repl.it is a web based IDE which enables you to code in almost every language. 
+## Features
+Stores all uploads, and also automatically saves your work.
+![](https://i.imgur.com/RAtT3cY.png)
+
+Features a wide range of computing languages.
+![](https://i.imgur.com/dcVI0dw.png)
+
 - This IDE made it very easy to upload external files. Incorporating the external file containing the library was integral to project 03. 
 - When making a mistake, for example leaving out a "{", or A mispelling. Repl.it would alert me to it, and then show me the character(s) that needed reviewal. This was extremely helpful as it saves time.
 
