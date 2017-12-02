@@ -1,2 +1,0 @@
-# WIKI
-Various explanations
