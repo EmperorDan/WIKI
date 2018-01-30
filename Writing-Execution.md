@@ -1,5 +1,9 @@
 # Writing, and execution of code 
 
+## Process of writing, and execution of code
+
+flablia bafusiuaegh ajfbsdjbsa aflueibflwa laiuefbla baljeb aehfba alwe ubaf lsjb;fsaubl awbej
+
 ## Coding
 - Keep programs and methods short and manageable.
 - Use language-specific idioms.
