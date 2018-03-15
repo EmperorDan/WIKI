@@ -1,4 +1,4 @@
-# Importance of a Feasibility Report
+# Feasibility Reports
 
 ## Desription:
 A feasibility report is a study that you undertake to garner whether a plan is likely to succeed.
@@ -9,3 +9,7 @@ Creating software is time consuming, and costs alot too. Before starting an idea
 Feasibility studies are important because they force you consider the big picture first and then think in a top-down fashion. In this way, one or two general starter questions lead to a host of additional, more detailed questions that become increasingly narrower in focus as you get closer to reaching an ultimate answer. 
 
 Feasibility studies offer you the chance to “get it right” before committing time, money and business resources to an idea that may not work in the way you originally planned, causing you to invest even more to correct flaws, remove limitations, and then simply try again. 
+
+## Components
+
+IMPORTANCE of the FEASIBILITY REPORT and the COMPONENTS of the FEASIBILITY REPORT
