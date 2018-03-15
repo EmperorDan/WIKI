@@ -4,7 +4,14 @@
 A feasibility report is a study that you undertake to garner whether a plan is likely to succeed.
 
 ## Importance
-Creating software is time consuming, and costs alot too. Before starting an idea, and potentially working on it for months. It would be smart to create a feasibility report to get a greater understanding of what your target auduence wants. Doing this will give you ideas on how to refine your idea, progress with it, or scrap it altogether. 
+
+The importance of a feasibility report is in the word 'Feasibilty'. Feasibility is the likelihood of something being easily or conviently done. Projects cost large amounts of money, and time. And because of this a feasibilty report is generally used to get the scope of the project. After this you should have a better idea of whether or not its possible. Also of things you may need to change before starting. Which will save on changes later on in development, which may not be possible, or expensive. 
+
+Using this resource is important, because it gives us a 
+
+
+
+Creating software is time consuming, and costs alot too. Before starting an idea, and potentially working on it for months. It would be smart to create a feasibility report to get a greater understanding of what your target auduence wants. Doing this will give you ideas on how to refine your idea, progress with it, or scrap it altogether.
 
 Feasibility studies are important because they force you consider the big picture first and then think in a top-down fashion. In this way, one or two general starter questions lead to a host of additional, more detailed questions that become increasingly narrower in focus as you get closer to reaching an ultimate answer. 
 
