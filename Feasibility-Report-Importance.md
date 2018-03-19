@@ -13,29 +13,24 @@ When making a feasibility report you research the market. You gather information
 
 ### Project scope
 
-
+This is where you clarify what your idea is, fleshing it out as much as possible. Once you have a clearer idea of what your doing it'll be easier to identify possible futture issues. This will also give you confidence when something works. 
 
 ### Project analysis
 
-
+Analysing your project reguarly will give you an idea of its strengths, and weaknesses. Anaylsis is most needed during the early stages to prevent runtime errors, and bugs. The benefit of this is that you have the opportunity to solve these problems, before they become unmanageable. This also saves you money as you avoid time consuming mistakes.
 
 ### Project requirements
 
-
+Knowing your softwares requirements is important. You want to provide a clear definition of what they are, and why they're necessary to your project. This will help you weed out aspects that aren't required.
 
 ### Technical Feasibility
 
-
+This is the part where you critically look at how your going to proceed in development. You need to find the most logical and benefitial route. When facing problems look into alternative ways to solve your issues. Following on from that you must be open to new ideas, and methods. 
 
 ### Project evaluation
 
-
+You have to evaluate what the costs of your project are going to be. The equipment, time, and resources all cost money and you must decide whether the costs are worth the project. This is ineluctable considering how much is invested in projects: pyschologicaly and physically. Understanding this early on gives you the opportunity to edit your ideas.
 
 ### Project Review
 
-
-
-
-
-
-IMPORTANCE of the FEASIBILITY REPORT and the COMPONENTS of the FEASIBILITY REPORT
+All of this will be compiled into a feasibility report. The report will give you insight on your project, allowing you to make a well realised, and evidenced, decision.
