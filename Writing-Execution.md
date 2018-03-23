@@ -2,9 +2,8 @@
 
 ## Process of writing, and execution of code
 - You start with planning out what your going to do. This will usually involve a flowchart. When using this chart shapes represent functions, processes, elements, ect. You will join, with arrow pointers, these various shapes to show how your game will function.  
-- Once you have decided upon the algorithm you will use, you must translate it to code. After doing this you must use a compiler to convert the code you've created. The compiler will change the language to machine code.
-- You have to get the reception of 
-
+- Once you have decided upon the algorithm you will use, you must translate it to code. The language depends entirely on what you want to achieve, your familiarity, or preference.
+-You must use a compiler to convert the code you've created. The compiler will change the language to machine code.
 
 ## Coding
 - Keep programs and methods short and manageable.
