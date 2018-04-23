@@ -14,7 +14,7 @@ Features a wide range of computing languages.
 
 ![](https://i.imgur.com/dcVI0dw.png)
 
-The settings tab gives you customization options. You can change the appearance, and the layout of your UI. This is benefitial because everyone has a certain way they work. I prefer the dark theme coupled with the stacked layout, because its easier on my eyes.    
+The settings tab gives you customization options. You can change the appearance, and the layout of your UI. This is benefitial because everyone has a certain way they work.    
 
 ![](https://i.imgur.com/6KhyulE.png)
 
