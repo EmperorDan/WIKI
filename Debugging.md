@@ -8,11 +8,13 @@ I use the various debugging tools available within most IDE's. I like having my 
 
 # IDE
 ## Introduction
-An IDE is essential when writing code 
+An IDE is essential when writing code. It enhances your ability to work by lessening time wasted on menial/avoidable   
 ## Features
+
+
 Stores all your uploads, and also automatically saves your work.
 
-Your work is saved in revisions. This means you can load previous states of your code. This is very useful for debugging, and experimenting, with your code. As it allows you to make changes without the risk of it breaking.
+Your work is saved in revisions. This means you can load previous states of your code. This is very useful for debugging, and experimenting, with your code. As it allows you to make changes without the risk of it breaking.p-[6
 
 Features a wide range of computing languages.
 
