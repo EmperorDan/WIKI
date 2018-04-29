@@ -6,8 +6,7 @@ Another way is to do the debugging yourself this can be time consuming, and is s
 
 I use the various debugging tools available within most IDE's. I like having my code on one side, and my console on another. This is so i can see the outcome of my coding automatically. This is a massive benefit as i dont waste time compiling separately, and if a problem occurs i can rectify it and test it almost automatically. The time saved using a good IDE is invaluable, and personally i wouldnt sacrifice the ease at this point.
 
-# IDE
-## Introduction
+# Common features a developer has access to in an IDE
 An IDE is essential when writing code. It enhances your ability to work by lessening time wasted on menial/avoidable   
 ## Features
 
