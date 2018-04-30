@@ -5,6 +5,10 @@ A feasibility report is a study that you undertake to garner whether a plan is l
 
 When making a feasibility report you research the market. You gather information on what is selling, what people are interested in, and the direction the industry may be heading. Gathering such information can improve your work, and help you understand mistakes that may arise during development.
 
+The foresight gained through this document allows you to address problems before it becomes too late. It gives you an opportunity to change direction early in development, but only if its completely necessary. This document gives you a better understanding of the costs that you may face. Having this information gives you the chance to re-think where you're dedicating your resources and whether or not you should re-evaluate.
+
+With the information you gather you can, better, determine the success of your project. It's possible you'll discover your project is not desirable to your intended audience. This information can be painful to digest but is a good thing as you've encountered the problem before starting. This gives you time to alter or completely change your concept to fit better with user requirement.
+
 ## Components
 
 ### Project scope
