@@ -1,7 +1,7 @@
 # How risk is managed in the Spiral model
 
 ### Description:
-The spiral model is like the incremental model, but with more dedicated to risk analysis. The model follows four phases: Risk analysis, Engineering and evaluation. The project will go through these phases repeaetably in iterations (called spirals in this model). Every spiral builds off the base spiral.
+The spiral model is like the incremental risk driven model not to be used by smaller projects. This model generally requires expertise during the iterations. Which means the overall success depends on the risk analysis phase. Each iteration of the development process helps ellinminate risk which are considered conditions, or events that may prevent the product from meeting its goals. Within the spiral model risks are considered to range from trivial to fatal and its the task for the development team to identify and prioritise all possible risks in order of importance. Once completed the development team determine strategies that can be used to mitigate or overcome the risks. These changes can effect the phase of the project and may be repeated multiple times.
 
 ![](https://i.imgur.com/rinTPGA.png)
 
