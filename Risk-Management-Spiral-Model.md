@@ -12,7 +12,9 @@ The spiral model goes through a initial risk analysis:
 - Classifying risks into user interface, and, development risks.
 - Decide upon the risks to handle through each phase. 
 
-Understanding risks help developers understand whether implementing risk resolution techniques such as prototyping, and benchmarking is necessary. The spiral model aims at identifying and evaluating software project risks, and helps in reducing these risks and controlling project costs. Risk management in the spiral model distinguishes it amongst other process models, it guarantees that most risks are recognized much earlier than in other models. This is essential for larger projects that have produced functional software early. As it constantly allows for changes due to the periodic testing iterations. This allows for a more robust product as you have to constantly re-evaluate your own work. 
+Understanding risks help developers understand whether implementing risk resolution techniques such as prototyping, and benchmarking is necessary. The spiral model aims at identifying and evaluating software project risks, and helps in reducing these risks and controlling project costs. 
+
+Risk management in the spiral model distinguishes it amongst other process models, it guarantees that most risks are recognized much earlier than in other models. This is essential for larger projects that have produced functional software early. As it constantly allows for changes due to the periodic testing iterations. This allows for a more robust product as you have to constantly re-evaluate your own work to progress. 
 
 
 
