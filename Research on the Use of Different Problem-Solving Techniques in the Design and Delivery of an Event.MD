@@ -1,6 +1,8 @@
 # Research on the Use of Different Problem-Solving Techniques in the Design and Delivery of an Event
 
+
 Identifying Problems
+It's important to critically evaluate yours, and your teams work. 
 
 Ask yourself what the problem is. There may be multiple issues within a single situation. Make a list of these issues and define why each one is a problem to you. Focus on behaviors rather than on yourself or a person (Incorrect example: "The problem is that I am stupid.") (Correct example: "The problem is that I easily allow others to betray or disappoint me, because I trust people too quickly.").
 
