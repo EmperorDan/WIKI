@@ -15,9 +15,9 @@ With the information you gather you can, better, determine the success of your p
 
 ### Project Scope
 
-This is where you clarify what your idea is, fleshing it out as much as possible. Once you have a clearer idea of what your doing it'll be easier to identify possible futture issues. This will also give you confidence when something works. 
+This is where you clarify what your idea is, fleshing it out as much as possible. Once you have a clearer idea of what your doing it'll be easier to identify possible future issues. This will also give you confidence when something works. 
 
-### Project analysis
+### Project Analysis
 
 Analysing your project reguarly will give you an idea of its strengths, and weaknesses. Anaylsis is most needed during the early stages to prevent runtime errors, and bugs. The benefit of this is that you have the opportunity to solve these problems, before they become unmanageable. This also saves you money as you avoid time consuming mistakes.
 
