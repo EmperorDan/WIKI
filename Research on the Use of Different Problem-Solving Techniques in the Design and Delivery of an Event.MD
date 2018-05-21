@@ -1,32 +1,24 @@
 # Research on the Use of Different Problem-Solving Techniques in the Design and Delivery of an Event
 
 
-Identifying Problems
-It's important to critically evaluate yours, and your teams work. 
+## Identifying Problems
+If you don't address problems you may have early in the development process, it can cause massive problems later on. It's important to be aware of your colleagues, and to respect their ideas. You show this respect by being able to critically, but constructively, evaluate eachothers work. Having an idea shot down without a valid reason is crushing, and it can demotivate someone. Without understanding why their idea is being overshadowed it may become personal for them. As the development process is stressful this added atop can create a hostile work environment.
 
-Ask yourself what the problem is. There may be multiple issues within a single situation. Make a list of these issues and define why each one is a problem to you. Focus on behaviors rather than on yourself or a person (Incorrect example: "The problem is that I am stupid.") (Correct example: "The problem is that I easily allow others to betray or disappoint me, because I trust people too quickly.").
+## Defining Goals
+Defining your goals early on is important. The reason for this is so that everything you do from the start has a clear direction. This decreases the chance having to make massive changes later on. As with any project you most likely won't have the time, or money to do said changes. These are personified by your 'Epics' and 'User Stories' which are what your user wants, and/or your desired goal.    
 
-Defining Goals
+## Brainstorming
+Brainstorming is a brilliant way of getting ideas on paper. A 'Brainstorm' usually start with a subject at the center which you categorically break down into smaller components, and repeat the process sequentially where needed. This process is benefitial as it allows you to digest a large subject in smaller peices. 
 
-Try to define your goals specifically, while making them as realistic and attainable as possible. An example of a poor or broad goal is "I want to be happy." First, define what happiness means to you and what you can do to feel happier overall. Try to form your goals in the sense of actions you can take to achieve the desired goal. 
+## Considering Alternatives
+Brainstorming gives you a better perspective of what's required. You can list the negatives , the positives, note down ideas and as a team work out the next step. The thing to do next is to weigh the positive and negative impacts that those decisions will make, and whether they're worth pursuing. Often you will find the best ideas at the time fall short later on and its important to stay vigilant of this, and to change where/when necessary.
 
-Brainstorming
+## Finding a Solution
+Following on from the previous point. It is important to understand that the best option isn't always the best. It may just be the best one you've come up with so far. If you believe something can be done better, there is a large possibility that your right. To not pursue alternative solutions can cost you time, and money further along.
 
-Take time to brainstorm possible ways to resolve the problem. Do not rush this process- People often want to prevent and solve problems before they even appear. Write down all ideas, even the ones that seem absurd or bizarre. Try to find 6-8 varying alternatives when resolving a particular problem.
+## Execute Solution
+Once your groundwork has been established you should be confident in your end goal. Dont worry yourself with potential problems just follow your plan.
 
-Considering Alternatives
-
-For every alternative you formed in the previous step, weigh the positive effects and negative consequences that each solution would bring. For every and any option, determine its advantages and its risks.
-
-Finding a Solution
-
-Carefully weigh all solutions. The best solution is not necessarily the option with the most pros and/or the least cons. Think about what means more to you, which solution can highlight the positive effects that matter the most to you, and which solution produces the mildest consequences. When you decide on a solution, it is important to create a timeline of when you intend to achieve your ultimate goal.   
-
-Execute Solution
-
-Don't worry about failure. In this phase, concentrate on the journey that will lead you to your goal- don't worry yourself with potential problems.
-
-Evaluation
-
-It's time to evaluate your success. If you were successful, congratulations! If not, no worries. Maybe you didn't quite choose the right solution or the situation changed. You have definitely learned something. Take this newfound knowledge, return to the beginning steps, and try again!
+## Evaluation
+This is the most important step regardless of whether you've achieved your goal or not. If you weren't successful then look at your mistakes, this is the best opportunity you have to learn valuable lessons. If you were successful there will still be things that you could improve in the future. All critism is good critism and if you internalise lessons learnt it will promote success later on.
 
